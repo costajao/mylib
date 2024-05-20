@@ -9,7 +9,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Your Name',
     author_email='your_email@example.com',
-    url='https://github.com/yourusername/mylib',
+    url='https://github.com/costajao/mylib',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: MIT License',
